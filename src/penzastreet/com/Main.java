@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hello, Nikolaevich!");
         //add();
         //abc();
+        // no important comment
         weights();
     }
 
