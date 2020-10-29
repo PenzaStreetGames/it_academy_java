@@ -3,11 +3,7 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, Nikolaevich!");
-        //add();
-        //abc();
-        // no important comment
-        weights();
+        System.out.println(12.75 % 5);
     }
 
     public static void add() {
