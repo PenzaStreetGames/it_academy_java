@@ -1,4 +1,4 @@
-package penzastreet.com.task_1.part_7;
+package penzastreet.com.task_1.part_7_add;
 
 import java.util.*;
 
@@ -9,7 +9,7 @@ public class BusBridges {
         n = in.nextInt();
         while (n > i) {
             h = in.nextInt();
-            if (bus > h)
+            if (bus >= h)
                 break;
             i++;
         }
